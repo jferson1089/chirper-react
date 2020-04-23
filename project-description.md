@@ -14,9 +14,9 @@ https://github.com/adgreenie/chirper_backend (Backend)
 
 ## Project Description
 
-React Architecture and WireFrame:
+React Architecture:
 
-https://www.figma.com/file/IiP3bWLkxpFsWnNoVXqZrO/Twitter-Clone?node-id=0%3A1
+
 
 Time Priority Matrix:
 
